@@ -1,0 +1,9 @@
+requests>=2.28
+beautifulsoup4>=4.12
+trafilatura>=1.6.5
+sentence-transformers>=2.2.2
+tqdm>=4.65
+openai>=0.28.0
+serpapi    # optional; works if key provided
+transformers>=4.34  # fallback local LLM
+torch>=2.1          # for local transformers

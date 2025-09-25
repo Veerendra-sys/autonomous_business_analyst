@@ -1,0 +1,35 @@
+RICE is a tool designed to help you make data-driven decisions.
+RICE evaluates projects based on four criteria: Reach, Impact, Confidence, and Effort. This structured approach not only helps product managers prioritize high-value initiatives but also ensures effective resource allocation and strategic alignment.
+Reach measures the number of unique users or customers impacted by a project.
+Impact assesses the significance of the project's effect on individual users or the business as a whole. Confidence reflects how certain you are about your estimates for Reach, Impact, and Effort.
+Use Reliable Data:
+Base your Reach, Impact, and Effort estimates on solid data. Leverage analytics, user feedback, and market research to inform your decisions. Be Realistic: Avoid overly optimistic or pessimistic estimates. Maintain consistency in your scoring criteria across different projects to ensure fair comparisons.
+The RICE framework is a powerful tool for product managers to prioritize projects effectively. By evaluating initiatives based on Reach, Impact, Confidence, and Effort, it ensures that resources are allocated to projects with the highest potential value. This method promotes objective, data-driven decision-making, improving collaboration and strategic alignment.
+The RICE model is a tool that can help product developers roadmap projects. It assesses the potential impact of various projects by considering four key factors. Reach refers to the number of users or customers a project will affect. Impact measures the magnitude of change it will bring. Confidence gauges the level of certainty in the estimates.
+The RICE model is an effective framework for decision-making. The method of evaluating reach can vary, but it’s crucial to maintain consistency across all your products and projects. Assess the “effort” needed to accomplish the project by quantifying the necessary resources, time and workforce.
+RICE is an acronym for the four factors we use to evaluate each project idea: reach, impact, confidence and effort. To avoid bias towards features you’d use yourself, estimate how many people each project will affect within a given period. Reach is measured in number of people/events per time period.
+To focus on projects that move the needle on your goal, estimate the impact on an individual person. For my team, it’s “how much will this project increase conversion rate when a customer encounters it?” Your team might replace this with another goal, such as “increase adoption”, or “maximize delight’
+
+
+RICE scores are used to compare projects. They are based on four factors: Reach, Impact, Confidence, Effort. Reach: How many people will this impact? (Estimate within a defined time period)
+Impact: How much will thisimpact each person? (Massive = 3x, High = 2x, Medium = 1x, Low = 0.5x)
+Confidence: How confident are you in your estimates? (High = 100%, Medium = 80%, Low = 50%.)
+Effort: how many “person-months” will this take?
+(Use whole numbers and minimum of half a month – don’t get into the weeds of estimation)
+The RICE Scoring Model is a framework designed to help product professionals make decisions in the face of the many challenges inherent in prioritizing ideas and tasks. RICE was developed by the product team at Intercom who tried out the model. The model gives specific guidance for determining a numerical value for each factor and methodology for using those values.
+The RICE Scoring Model is still used at Intercom today and has gained popularity in the global community of product management professionals. Reach is defined as the number of people a particular product initiative will affect within a specific period of time. Depending on your initiative, it might be something like “purchases per month” or “customers per quarter.
+The RICE framework defines the effect on a user’s overall experience as impact.
+To define your impact number, you’ll first need to define what that impact looks like. Be wary of bias, since this is a chosen number rather than an objective metric. Limit yourself to one impact outcome for a better chance at choosing an accurate reach score.
+Confidence is defined as a percentage according to this scale:
+- 100% = high confidence
+- 80% = medium confidence
+- 50% = low confidence.
+ Effort is a crucial component of the score because it forces teams to consider whether an initiative’s impact justifies its required resources.
+The RICE prioritization method enables product teams to consider product updates, upgrades, and new features holistically and prioritize low lift, high confidence, and high impact.
+ The equation for calculating your final RICE score for product prioritization is: Reach X Impact X Confidence (divided by) Effort = Total Score.
+
+Using the RICE framework means utilizing data to determine the numbers to factor into the equation and maximizing a project’s impact. Using the Whatfix DAP, you can create an engaging version of your user onboarding that provides information about the new functionality without entering a line of code. You can add new support articles to your knowledge base without the help of a developer.
+In-app surveys can help you retrospectively understand how much value your iteration gave to your users so that you can learn to be more accurate as time goes on. With the Whatfix, you can launch a survey and collect end-user feedback and insights from your users.
+According to the Kano model, there are five different customer expectations when adding a new feature. The expectations can range from dissatisfaction to features that delight the customer. These five categories can be divided into two types features you should avoid and features you need to include. You can illustrate the relationship between customer satisfaction and the features using a graph.
+These are the features that tend to upset or dissatisfy the customer. Features with indifferent quality can have a higher degree of satisfaction that can grow exponentially. You can implement this model in three simple steps. Design a Kano study to get the information from the users.
+The higher the score, the user views it as a feature that needs to be present in the product. Based on the results, you can prioritize the features in the backlog.
